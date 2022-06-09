@@ -36,3 +36,21 @@ This is what your dashboard should look like:
 If you want to analyze data further you should do that.
 
 [Dataset](https://docs.google.com/spreadsheets/d/1PHoXC4VvkghGKLZtvCknkYfUt85232Lj/edit?usp=sharing&ouid=106115340208586563833&rtpof=true&sd=true)(For 2nd Task)
+
+### Problem Statement 1 - Part 1.xlsx
+
+Task 1
+
+![image](https://user-images.githubusercontent.com/86974424/172781817-d3bac51d-db5d-41de-b563-7f59ecafe41d.png)
+
+Task 2
+
+![image](https://user-images.githubusercontent.com/86974424/172781869-677bcb8a-9a6e-4278-8be0-95083fb421a8.png)
+
+Task 3
+
+![image](https://user-images.githubusercontent.com/86974424/172781935-3766e304-8128-4f43-b703-aa0fc134ad55.png)
+
+### Problem Statement 1 - Part 2.xlsx
+
+![image](https://user-images.githubusercontent.com/86974424/172782102-b93ff8ca-f9a1-4cbb-b338-06872b2b6729.png)
