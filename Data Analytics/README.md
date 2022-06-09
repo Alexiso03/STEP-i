@@ -37,6 +37,8 @@ If you want to analyze data further you should do that.
 
 [Dataset](https://docs.google.com/spreadsheets/d/1PHoXC4VvkghGKLZtvCknkYfUt85232Lj/edit?usp=sharing&ouid=106115340208586563833&rtpof=true&sd=true)(For 2nd Task)
 
+## Solutions
+
 ### Problem Statement 1 - Part 1.xlsx
 
 Task 1
