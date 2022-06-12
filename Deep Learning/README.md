@@ -46,3 +46,27 @@ Your task is to create a deep learning model that can provide the probability of
 
 Dataset:
 https://drive.google.com/drive/folders/1y7AO4RHDLYYvjGMlZX2NBTpSFWho1Jyg?usp=sharing
+
+##
+## Solutions
+
+![image](https://user-images.githubusercontent.com/86974424/173246941-820689b8-5934-4a56-a5d8-99561f81d76c.png)
+
+### Training MobileNet Pretrained Model
+![image](https://user-images.githubusercontent.com/86974424/173246986-cca1a1bf-231c-4190-ba59-a10910528394.png)
+
+![image](https://user-images.githubusercontent.com/86974424/173247013-bd14c493-036c-4b22-880e-9f6b6c59e469.png)
+
+### Accuracy Vs Val Accuracy
+![image](https://user-images.githubusercontent.com/86974424/173247033-6d678bf7-19f9-417f-83fd-6b3dd68b80cd.png)
+
+### Loss Vs Val Loss
+![image](https://user-images.githubusercontent.com/86974424/173247059-671e287b-4181-4d9d-adb7-5f3a2bf13a41.png)
+
+### Predicting Random Normal Images
+![image](https://user-images.githubusercontent.com/86974424/173247097-47356cbb-5551-476b-b7b6-6438032a6232.png)
+
+### Predicting Random Osteoarthritis Images
+![image](https://user-images.githubusercontent.com/86974424/173247119-8775e372-9d32-46d4-927b-9473d1e04489.png)
+
+## Note: These are the test data which I have used for prediction.
