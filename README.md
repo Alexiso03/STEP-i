@@ -3,3 +3,5 @@
 Tasks and Projects Included are:
 1. Data Analytics
 2. Machine Learning
+3. SQL
+4. Deep Learning
