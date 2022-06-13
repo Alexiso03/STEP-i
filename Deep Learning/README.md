@@ -69,4 +69,5 @@ https://drive.google.com/drive/folders/1y7AO4RHDLYYvjGMlZX2NBTpSFWho1Jyg?usp=sha
 ### Predicting Random Osteoarthritis Images
 ![image](https://user-images.githubusercontent.com/86974424/173247119-8775e372-9d32-46d4-927b-9473d1e04489.png)
 
-## Note: These are the test data which I have used for prediction.
+### Confusion Matrix
+![image](https://user-images.githubusercontent.com/86974424/173306987-80978568-f1ae-4624-adab-d24d09dd97bb.png)
