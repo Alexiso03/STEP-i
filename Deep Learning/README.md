@@ -58,10 +58,10 @@ https://drive.google.com/drive/folders/1y7AO4RHDLYYvjGMlZX2NBTpSFWho1Jyg?usp=sha
 ![image](https://user-images.githubusercontent.com/86974424/173247013-bd14c493-036c-4b22-880e-9f6b6c59e469.png)
 
 ### Accuracy Vs Validation Accuracy
-![image](https://user-images.githubusercontent.com/86974424/173247033-6d678bf7-19f9-417f-83fd-6b3dd68b80cd.png)
+![image](https://user-images.githubusercontent.com/86974424/173314236-9d67e531-fd02-42d9-becd-0dc2e30ff2d0.png)
 
 ### Loss Vs Validation Loss
-![image](https://user-images.githubusercontent.com/86974424/173247059-671e287b-4181-4d9d-adb7-5f3a2bf13a41.png)
+![image](https://user-images.githubusercontent.com/86974424/173314269-38e8a8c3-e394-4c0a-8d81-f97052b06d9a.png)
 
 ### Predicting Random Normal Images
 ![image](https://user-images.githubusercontent.com/86974424/173247097-47356cbb-5551-476b-b7b6-6438032a6232.png)
