@@ -57,5 +57,6 @@ Task 3
 ### Problem Statement 1 - Part 2.xlsx
 
 ![image](https://user-images.githubusercontent.com/86974424/172782102-b93ff8ca-f9a1-4cbb-b338-06872b2b6729.png)
+![image](https://user-images.githubusercontent.com/86974424/173338598-75eb18d7-af4b-4a2f-93f5-bfa4bfcf8fcc.png)
 
 ##
